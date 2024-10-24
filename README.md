@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nragland37/cpp-projects/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Luv2SeeYouCry/cpp-projects/blob/main/LICENSE)
 
 # <p align="center"> Hello, World! 🦖 </p>
 
